@@ -19,3 +19,6 @@ If you have Jupyter in your requirements.txt and you activate that environment (
 - Open the .ipynb file in visual studio code
 
 - Run the Notebook and check the results
+
+## Description
+**Project developed for Inlustro**
