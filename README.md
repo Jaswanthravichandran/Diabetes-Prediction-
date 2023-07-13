@@ -21,4 +21,4 @@ If you have Jupyter in your requirements.txt and you activate that environment (
 - Run the Notebook and check the results
 
 ## Description
-**Project developed for Inlustro***
+**Project developed for Inlustro**
